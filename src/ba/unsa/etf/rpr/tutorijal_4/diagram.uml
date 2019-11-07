@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="238.0" y="169.0">ba.unsa.etf.rpr.tutorijal_4.Student</node>
+    <node x="0.0" y="169.0">ba.unsa.etf.rpr.tutorijal_4.Predmet</node>
+    <node x="0.0" y="0.0">ba.unsa.etf.rpr.tutorijal_4.Semestar</node>
+    <node x="0.0" y="338.0">ba.unsa.etf.rpr.tutorijal_4.Raspored</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="437.99999999999994" y="216.66666666666663" />
+  <SelectedNodes>
+    <node>ba.unsa.etf.rpr.tutorijal_4.Predmet</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
